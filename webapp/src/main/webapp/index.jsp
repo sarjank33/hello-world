@@ -15,8 +15,6 @@
 </head>
 
 
-
-
 <body onload="doShowAll()">
 	<h2>Shopping Cart with HTML5 Storage Project</h2>
 	<p>Insert items and quantity for your shopping cart. </p>
