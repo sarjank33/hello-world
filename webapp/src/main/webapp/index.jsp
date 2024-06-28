@@ -19,7 +19,7 @@
 
 
 <body onload="doShowAll()">
-	<h2>Demo Shopping Cart with my HTML5 Storage Project</h2>
+	<h2>Shopping Cart with my HTML5 Storage Project</h2>
 	<p>Insert items and quantity for your shopping cart. </p>
 	<form name=ShoppingList>
 
